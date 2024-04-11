@@ -1,0 +1,33 @@
+.container-top-about {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6rem;
+}
+.container-about {
+  margin-top: 5em;
+  max-width: 70em;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s;
+}
+.container-about:hover {
+  transform: scale(1.05);
+}
+.about-text {
+  flex: 1;
+  padding-right: 20px;
+}
+
+.about-image {
+  max-width: 50%;
+}
+
+.about-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 3px
+}

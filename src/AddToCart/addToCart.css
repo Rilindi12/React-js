@@ -1,0 +1,25 @@
+#icon {
+  display: inline-block;
+}
+
+#icon svg {
+  width: 40px; 
+  height: auto; 
+  margin-left: 2rem;
+}
+
+.cart-has-items .cart-count {
+  border-style: none;
+  background-color:rgb(238 238 238);  
+  width: 300px;
+  padding: 3rem;
+  margin-left: 1rem;
+  margin-top: 0.4rem;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-count strong{
+  margin-right: 0.7rem;
+}

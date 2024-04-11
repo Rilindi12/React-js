@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-js/static/css/main.7fa5f480.css",
+    "main.js": "/React-js/static/js/main.92ccbfd9.js",
+    "static/js/453.a9a170aa.chunk.js": "/React-js/static/js/453.a9a170aa.chunk.js",
+    "static/media/iphone-15-pro-max.jpg": "/React-js/static/media/iphone-15-pro-max.35ef5e33bdb581cab655.jpg",
+    "static/media/Mackbook.jpg": "/React-js/static/media/Mackbook.1a17a0ade5811e292912.jpg",
+    "static/media/computer.jpg": "/React-js/static/media/computer.61ab8adfec5493fd1c54.jpg",
+    "static/media/samsung1.jpg": "/React-js/static/media/samsung1.d972977d00faf14fc36f.jpg",
+    "static/media/computer1.jpg": "/React-js/static/media/computer1.c5a556f734f715e33ac7.jpg",
+    "static/media/iphone12.jpg": "/React-js/static/media/iphone12.e9ba3ba605406034d183.jpg",
+    "static/media/samsung.jpg": "/React-js/static/media/samsung.fedd3c57736196087c05.jpg",
+    "static/media/Iphone.jpg": "/React-js/static/media/Iphone.8a096a8cf23e273beaae.jpg",
+    "static/media/lg.jpg": "/React-js/static/media/lg.2e399ebc64d90c30686e.jpg",
+    "static/media/airpods.jpg": "/React-js/static/media/airpods.2922c02fe6cb6662d3c2.jpg",
+    "static/media/iphone14.jpg": "/React-js/static/media/iphone14.da4c796aa75f17bc91d1.jpg",
+    "static/media/iphone13.jpg": "/React-js/static/media/iphone13.98de595a946b52262ef9.jpg",
+    "index.html": "/React-js/index.html",
+    "main.7fa5f480.css.map": "/React-js/static/css/main.7fa5f480.css.map",
+    "main.92ccbfd9.js.map": "/React-js/static/js/main.92ccbfd9.js.map",
+    "453.a9a170aa.chunk.js.map": "/React-js/static/js/453.a9a170aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa5f480.css",
+    "static/js/main.92ccbfd9.js"
+  ]
+}

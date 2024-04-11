@@ -1,0 +1,35 @@
+.container-top-footer {
+  background-color: #a9a9a91c;
+  padding: 20px 0;
+  display: flex;
+  gap: 1em;
+  /* padding-bottom: 10em; */
+  margin-top: 10em;
+  flex-direction: column;
+}
+
+.container-footer {
+  text-align: center;
+  display: flex;
+  gap: 3em;
+}
+
+.container-footer h1 {
+  color: #acabab;
+  font-size: 24px;
+}
+
+.container-footer p {
+  color: #acabab;
+  font-size: 14px;
+}
+.current-data {
+  text-align: center;
+  padding: 20px 0;
+  color: #776a6a;
+  font-size: 1.1rem;
+}
+#icons {
+  font-size: 1.5rem;
+}
+
